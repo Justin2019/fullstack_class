@@ -1,0 +1,14 @@
+body {
+    background: green;
+}
+h1 {
+ background: red;
+}
+.register {
+ background: black;
+ color:#ffffff;
+}
+
+.myTab {
+    margin: 20px;
+}
